@@ -17,6 +17,6 @@
 
 ## 🛠️ 개발 및 실습 환경
 
-* **Language:** Python 3.x
+* **Language:** Python 3.14
 * **IDE:** PyCharm (Jupyter Notebook 환경 활용)
 * **Environment Management:** Python Virtual Environment (`.venv`)
